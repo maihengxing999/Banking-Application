@@ -1,0 +1,26 @@
+D:\COMP123\Banking Application\Banking Application\obj\Debug\Banking Application.csproj.AssemblyReference.cache
+D:\COMP123\Banking Application\Banking Application\obj\Debug\Banking Application.csproj.CoreCompileInputs.cache
+D:\COMP123\Banking Application\Banking Application\bin\Debug\Banking Application.exe.config
+D:\COMP123\Banking Application\Banking Application\bin\Debug\Banking Application.exe
+D:\COMP123\Banking Application\Banking Application\bin\Debug\Banking Application.pdb
+D:\COMP123\Banking Application\Banking Application\obj\Debug\Banking Application.exe
+D:\COMP123\Banking Application\Banking Application\obj\Debug\Banking Application.pdb
+D:\COMP123\Banking Application\Banking Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Buffers.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Memory.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Numerics.Vectors.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Text.Encodings.Web.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Text.Json.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.ValueTuple.dll
+D:\COMP123\Banking Application\Banking Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Buffers.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Memory.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Numerics.Vectors.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Text.Encodings.Web.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Text.Json.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COMP123\Banking Application\Banking Application\bin\Debug\System.ValueTuple.xml
+D:\COMP123\Banking Application\Banking Application\obj\Debug\Banking Application.csproj.CopyComplete
